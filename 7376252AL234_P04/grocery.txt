@@ -1,0 +1,11 @@
+Item|Category|Quantity|Unit|PricePerUnit|Status
+Rice|Grains|5|kg|60|PENDING
+Wheat Flour|Grains|2|kg|45|BOUGHT
+Milk|Dairy|3|l|30|BOUGHT
+Curd|Dairy|2|kg|50|PENDING
+Tomato|Vegetables|2|kg|35|PENDING
+Potato|Vegetables|3|kg|40|BOUGHT
+Apple|Fruits|1|kg|180|PENDING
+Banana|Fruits|12|pcs|6|BOUGHT
+Cooking Oil|Essentials|2|l|150|PENDING
+Sugar|Essentials|1|kg|48|BOUGHT
