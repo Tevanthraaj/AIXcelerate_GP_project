@@ -1,0 +1,159 @@
+===== GROCERY LIST AND BUDGET PLANNER =====
+1. Add grocery item
+2. Mark item as bought
+3. Edit item
+4. Remove item
+5. Display grocery list
+6. Set monthly budget
+7. Show three most expensive items
+8. Exit
+Enter your choice (1-8): 5
+
+===== GROCERY LIST BY CATEGORY =====
+
+Category: Grains
+Item: rice
+Quantity: 5 kg
+Price per unit: 60.00
+Total price: 300.00
+Status: PENDING
+------------------------
+Item: wheat flour
+Quantity: 2 kg
+Price per unit: 45.00
+Total price: 90.00
+Status: BOUGHT
+------------------------
+
+Category: Dairy
+Item: milk
+Quantity: 3 l
+Price per unit: 30.00
+Total price: 90.00
+Status: BOUGHT
+------------------------
+Item: curd
+Quantity: 2 kg
+Price per unit: 50.00
+Total price: 100.00
+Status: PENDING
+------------------------
+
+Category: Vegetables
+Item: tomato
+Quantity: 2 kg
+Price per unit: 35.00
+Total price: 70.00
+Status: PENDING
+------------------------
+Item: potato
+Quantity: 3 kg
+Price per unit: 40.00
+Total price: 120.00
+Status: BOUGHT
+------------------------
+
+Category: Fruits
+Item: apple
+Quantity: 1 kg
+Price per unit: 180.00
+Total price: 180.00
+Status: PENDING
+------------------------
+Item: banana
+Quantity: 12 pcs
+Price per unit: 6.00
+Total price: 72.00
+Status: BOUGHT
+------------------------
+
+Category: Essentials
+Item: cooking oil
+Quantity: 2 l
+Price per unit: 150.00
+Total price: 300.00
+Status: PENDING
+------------------------
+Item: sugar
+Quantity: 1 kg
+Price per unit: 48.00
+Total price: 48.00
+Status: BOUGHT
+------------------------
+
+Planned total: 1370.00
+Bought total: 420.00
+Monthly budget: 4000.00
+Remaining budget: 2630.00
+===== GROCERY LIST AND BUDGET PLANNER =====
+1. Add grocery item
+2. Mark item as bought
+3. Edit item
+4. Remove item
+5. Display grocery list
+6. Set monthly budget
+7. Show three most expensive items
+8. Exit
+Enter your choice (1-8): 1
+Enter the name of the grocery item: Juice
+Enter the category of the item: Essentials
+Enter the quantity of the item: 5
+Enter the unit of measurement (e.g., kg, L, pcs): L
+Enter the price per unit: 70
+Enter the status of the item (True(bought)/False(pending)): false
+Item 'juice' added successfully.
+===== GROCERY LIST AND BUDGET PLANNER =====
+1. Add grocery item
+2. Mark item as bought
+3. Edit item
+4. Remove item
+5. Display grocery list
+6. Set monthly budget
+7. Show three most expensive items
+8. Exit
+Enter your choice (1-8): 6
+Enter your monthly budget: 3000
+Monthly budget set to Rs. 3000.00.
+===== GROCERY LIST AND BUDGET PLANNER =====
+1. Add grocery item
+2. Mark item as bought
+3. Edit item
+4. Remove item
+5. Display grocery list
+6. Set monthly budget
+7. Show three most expensive items
+8. Exit
+Enter your choice (1-8): 7
+===== THREE MOST EXPENSIVE ITEMS =====
+Item: juice
+  Category: essentials
+  Quantity: 5 l
+  Price per Unit: $70.00
+  Total Price: $350.00
+  Status: pending
+------------------------
+Item: rice
+  Category: Grains
+  Quantity: 5 kg
+  Price per Unit: $60.00
+  Total Price: $300.00
+  Status: PENDING
+------------------------
+Item: cooking oil
+  Category: Essentials
+  Quantity: 2 l
+  Price per Unit: $150.00
+  Total Price: $300.00
+  Status: PENDING
+------------------------
+===== GROCERY LIST AND BUDGET PLANNER =====
+1. Add grocery item
+2. Mark item as bought
+3. Edit item
+4. Remove item
+5. Display grocery list
+6. Set monthly budget
+7. Show three most expensive items
+8. Exit
+Enter your choice (1-8): 8
+Exiting the program. Goodbye!
