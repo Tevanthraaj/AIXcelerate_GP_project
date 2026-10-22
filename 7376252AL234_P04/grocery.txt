@@ -1,12 +1,12 @@
 Item|Category|Quantity|Unit|PricePerUnit|Status
-rice|Grains|5|kg|60.0|PENDING
-wheat flour|Grains|2|kg|45.0|BOUGHT
-milk|Dairy|3|l|30.0|BOUGHT
-curd|Dairy|2|kg|50.0|PENDING
-tomato|Vegetables|2|kg|35.0|PENDING
-potato|Vegetables|3|kg|40.0|BOUGHT
-apple|Fruits|1|kg|180.0|PENDING
-banana|Fruits|12|pcs|6.0|BOUGHT
-cooking oil|Essentials|2|l|150.0|PENDING
-sugar|Essentials|1|kg|48.0|BOUGHT
+rice|Grains|5|kg|60.0|pending
+wheat flour|Grains|2|kg|45.0|bought
+milk|Dairy|3|l|30.0|bought
+curd|Dairy|2|kg|50.0|pending
+tomato|Vegetables|2|kg|35.0|pending
+potato|Vegetables|3|kg|40.0|bought
+apple|Fruits|1|kg|180.0|pending
+banana|Fruits|12|pcs|6.0|bought
+cooking oil|Essentials|2|l|150.0|pending
+sugar|Essentials|1|kg|48.0|bought
 juice|essentials|5|l|70.0|pending
